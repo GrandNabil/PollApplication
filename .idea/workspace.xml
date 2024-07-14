@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="i add a reference for the app in INSTALLED_APPs">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/migrations/0001_initial.py" afterDir="false" />
+    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="migration for database">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720851785699</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="migration for database">
+      <option name="closed" value="true" />
+      <created>1720852739474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720852739474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +141,7 @@
     <MESSAGE value="part one of the poll app." />
     <MESSAGE value="creation of database utilites" />
     <MESSAGE value="i add a reference for the app in INSTALLED_APPs" />
-    <option name="LAST_COMMIT_MESSAGE" value="i add a reference for the app in INSTALLED_APPs" />
+    <MESSAGE value="migration for database" />
+    <option name="LAST_COMMIT_MESSAGE" value="migration for database" />
   </component>
 </project>
