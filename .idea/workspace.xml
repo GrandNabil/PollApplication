@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="added result views and the template of the view">
+    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="some update in databases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +248,39 @@
       <option name="project" value="LOCAL" />
       <updated>1721375343778</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="space between again and ?">
+      <option name="closed" value="true" />
+      <created>1721465016024</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465016024</updated>
+    </task>
+    <task id="LOCAL-00024" summary="convert of URLconf to use generic view.">
+      <option name="closed" value="true" />
+      <created>1721465078084</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465078084</updated>
+    </task>
+    <task id="LOCAL-00025" summary="introducing of generic views and delete old views">
+      <option name="closed" value="true" />
+      <created>1721465144581</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465144581</updated>
+    </task>
+    <task id="LOCAL-00026" summary="some update in databases">
+      <option name="closed" value="true" />
+      <created>1721465169367</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465169367</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +336,10 @@
     <MESSAGE value="vote function in views.py" />
     <MESSAGE value="move detail.html in the right directory" />
     <MESSAGE value="added result views and the template of the view" />
-    <option name="LAST_COMMIT_MESSAGE" value="added result views and the template of the view" />
+    <MESSAGE value="space between again and ?" />
+    <MESSAGE value="convert of URLconf to use generic view." />
+    <MESSAGE value="introducing of generic views and delete old views" />
+    <MESSAGE value="some update in databases" />
+    <option name="LAST_COMMIT_MESSAGE" value="some update in databases" />
   </component>
 </project>
