@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="Customizing of the app’s look and feel by creating style.css">
-      <change beforePath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
+    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="Customizing of the app’s look and feel by adding an bckg image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Grand Nabil\Web Poll App\PollApplication\mysite\polls\static\polls\images" />
       <recent name="C:\Users\Grand Nabil\Web Poll App\PollApplication\mysite\polls\templates\polls" />
     </key>
   </component>
@@ -334,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721945801868</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Customizing of the app’s look and feel by adding an bckg image">
+      <option name="closed" value="true" />
+      <created>1721946596651</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1721946596651</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +381,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="new models to solve the queryset display. 03 methods were added" />
     <MESSAGE value="some database manipulation and timezone modification" />
     <MESSAGE value="Admin index page configuration" />
     <MESSAGE value="more views for the poll application web site" />
@@ -396,6 +405,7 @@
     <MESSAGE value="test for index view" />
     <MESSAGE value="other test case for our web-poll application" />
     <MESSAGE value="Customizing of the app’s look and feel by creating style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customizing of the app’s look and feel by creating style.css" />
+    <MESSAGE value="Customizing of the app’s look and feel by adding an bckg image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customizing of the app’s look and feel by adding an bckg image" />
   </component>
 </project>
