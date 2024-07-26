@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="Customizing of the admin form update">
+    <list default="true" id="4fc52820-cb87-477a-8512-44c90d39c13a" name="Changes" comment="Customizing of the admin form by adding models.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -360,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721949419241</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Customizing of the admin form by adding models.py">
+      <option name="closed" value="true" />
+      <created>1721950208343</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1721950208343</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +406,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="more views for the poll application web site" />
     <MESSAGE value="urls patterns for the news views. write with question id" />
     <MESSAGE value="index views updated to display the latest 5 poll question in the system" />
     <MESSAGE value="creation of index in template for the views." />
@@ -422,6 +430,7 @@
     <MESSAGE value="Customizing of the app’s look and feel by adding an bckg image" />
     <MESSAGE value="Customizing of the admin form" />
     <MESSAGE value="Customizing of the admin form update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customizing of the admin form update" />
+    <MESSAGE value="Customizing of the admin form by adding models.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customizing of the admin form by adding models.py" />
   </component>
 </project>
